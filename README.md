@@ -7,14 +7,14 @@ In this project I built a model to autonomouly drive a car in a car simulation m
 The link to clone and run the simulation can be found here [simulation](https://github.com/udacity/self-driving-car-sim)
 The simulator was used to record training data for this project. 
 
-## The Files
-# model.py
+# The Files
+## model.py
   This files takes the training data from the simulator to train a convolutional neural network and produce an .h5 file
  
-# drive.py
+## drive.py
   This file is used to communicate with the simulator running in autonomous mode. The data is gathered from the simulator and fed through the model which sends back the predicted steering angles for real time driving. 
   
-## To run using my model
+# To run using my model
 dowload dependencies: 
 ```
 conda env create -f environments.yml 
