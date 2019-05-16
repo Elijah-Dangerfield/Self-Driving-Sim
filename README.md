@@ -3,7 +3,7 @@
 This project was built with the help of a Siraj Raval video found here: https://www.youtube.com/watch?v=EaY5QiZwSP4
 
 ## The What
-In this project I built a model to autonomouly drive a car in a car simulation made for the Udacity Program found here: [Udacity Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
+In this project I built a model to autonomously drive a car in a car simulation made for the Udacity Self-Driving car nanodegree Program found here: [Udacity Program](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 The link to clone and run the simulation can be found here [simulation](https://github.com/udacity/self-driving-car-sim)
 The simulator was used to record training data for this project. 
 
