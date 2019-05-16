@@ -15,13 +15,13 @@ The simulator was used to record training data for this project.
   This file is used to communicate with the simulator running in autonomous mode. The data is gathered from the simulator and fed through the model which sends back the predicted steering angles for real time driving. 
   
 # To run using my model
-dowload dependencies: 
+1. dowload dependencies: 
 ```
 conda env create -f environments.yml 
 ```
-start simulator running in autonomous mode
+2. start simulator running in autonomous mode
 
-run drive.py with my model
+3. run drive.py with my model
 ```
 python3 drive.py model.h5
 ```
